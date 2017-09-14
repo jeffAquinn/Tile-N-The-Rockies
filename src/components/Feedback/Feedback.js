@@ -20,14 +20,14 @@ class Feedback extends React.Component {
             className={s.link}
             href="https://gitter.im/kriasoft/react-starter-kit"
           >
-            Get a quote
+            Get a Quote
           </a>
           <span className={s.spacer}>|</span>
           <a
             className={s.link}
             href="https://github.com/kriasoft/react-starter-kit/issues/new"
           >
-            Write a review
+            Write a Review
           </a>
         </div>
       </div>
