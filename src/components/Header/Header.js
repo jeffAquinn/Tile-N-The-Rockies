@@ -35,8 +35,7 @@ class Header extends React.Component {
           <div className={s.banner}>
             <h1 className={s.bannerTitle}>Custom Built</h1>
             <p className={s.bannerDesc}>
-              Master Bathrooms, Steam Showers, Entry Floors, Kitchens and Hall
-              Bathrooms
+              Master Bathrooms, Steam Showers, Entry Floors, Heated Floors...
             </p>
           </div>
         </div>
