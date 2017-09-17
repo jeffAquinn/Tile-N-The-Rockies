@@ -1,0 +1,12 @@
+@import '../variables.css';
+
+.container {
+  margin: 0 auto;
+  padding: 10px auto;
+  max-width: var(--max-content-width);
+}
+
+.header {
+  font-size: 1.75em;
+  color: black;
+}

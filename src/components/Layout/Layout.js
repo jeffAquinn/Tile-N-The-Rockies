@@ -16,12 +16,14 @@ import s from './Layout.css';
 import Header from '../Header';
 import Feedback from '../Feedback';
 import Footer from '../Footer';
+import Gallery from '../Gallery';
 
 class Layout extends React.Component {
   render() {
     return (
       <div>
         <Header />
+        <Gallery />
         <Feedback />
         <Footer />
       </div>
