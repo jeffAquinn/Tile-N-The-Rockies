@@ -1,12 +1,14 @@
 @import '../variables.css';
 
 .container {
-  margin: 0 auto;
-  padding: 10px auto;
-  max-width: var(--max-content-width);
+  flex-direction: row;
 }
 
-.header {
-  font-size: 1.75em;
-  color: black;
+.caption {
+  color: #a30812;
+  font-style: serif;
+  font-weight: 4em;
+  font-size: 1.4em;
+  margin: 10;
+  text-align: center;
 }
