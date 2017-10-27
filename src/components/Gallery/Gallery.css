@@ -2,13 +2,14 @@
 
 .container {
   flex-direction: row;
+  padding-bottom: 1em;
 }
 
 .caption {
-  color: #a30812;
+  color: #050101;
   font-style: serif;
   font-weight: 4em;
   font-size: 1.4em;
-  margin: 10;
+  padding: 0.3em;
   text-align: center;
 }
