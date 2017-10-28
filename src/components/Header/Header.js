@@ -24,9 +24,6 @@ class Header extends React.Component {
             <img
               className={s.tnrLogo}
               src={logoUrl}
-              height="25"
-              width="25"
-              boarderRadius="50"
               alt="Tile N The Rockies Logo"
             />
 
